@@ -10,8 +10,7 @@
 - ⚡ Fun fact **I love to learn new things**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/m-robot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="m-robot" height="30" width="40" /></a>
+<p align="center">
 <a href="https://www.instagram.com/_dev_mujahid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
 
