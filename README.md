@@ -10,8 +10,8 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** JavaScript, TypeScript, Golang, PHP  
-- **Backend:** Node.js, Express.js, NestJS  
+- **Languages:** JavaScript, TypeScript, Golang, C#  
+- **Backend:** Node.js, Express.js, NestJS, C#
 - **Frontend:** React.js, Next.js, HTML, CSS, Tailwind CSS  
 - **Databases:** MongoDB, MySQL  
 - **Tools & Platforms:** Git, GitHub, Postman, Docker, Supabase, Firebase  
