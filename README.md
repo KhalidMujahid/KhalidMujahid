@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer | Passionate Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
-  🔧 Building scalable and efficient backend systems with <strong>Golang,Node.js, Express.js, MongoDB, MySQL</strong><br/>
+  🔧 Building scalable and efficient backend systems with <strong>C#,Golang,Node.js, Express.js, MongoDB, MySQL</strong><br/>
   🌍 Based in <strong>Nigeria</strong> | 📩 Reach me at <a href="mailto:binkhalid267@gmail.com">binkhalid267@gmail.com</a><br/>
   🚀 Always exploring, learning, and growing.
 </p>
